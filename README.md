@@ -17,7 +17,7 @@ To run this application, you need:
 2. Install dependencies
    ```bash
    npm install
-3. Install dependencies
+3. Update config
    ```bash
    Configure the database - update your user data in config/config.json
    ```
@@ -28,9 +28,8 @@ Start the server:
 
 ```bash
 node app.js
-
-The application will run at http://localhost:3000
 ```
+### The application will run at http://localhost:3000
 
 ## Endpoints
 ### Get All Books
