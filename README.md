@@ -14,13 +14,12 @@ To run this application, you need:
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd <repository_folder>
 2. Install dependencies
    ```bash
    npm install
 3. Install dependencies
    ```bash
-   Configure the database - if you want to use other postgres user
+   Configure the database - update your user data in config/config.json
    ```
 
 ## Running the Application
