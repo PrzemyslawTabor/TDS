@@ -1,0 +1,14 @@
+{
+    "database": {
+      "username": "postgres",
+      "password": "root",
+      "database": "books",
+      "host": "localhost",
+      "port": 5432,
+      "dialect": "postgres"
+    },
+    "server": { 
+        "port": 3000
+    }
+}
+  
